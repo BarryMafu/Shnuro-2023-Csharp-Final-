@@ -1,0 +1,17 @@
+C:\Users\x_bar\Desktop\Shnuro\Shnuro\bin\Debug\net6.0-windows\Shnuro.exe
+C:\Users\x_bar\Desktop\Shnuro\Shnuro\bin\Debug\net6.0-windows\Shnuro.deps.json
+C:\Users\x_bar\Desktop\Shnuro\Shnuro\bin\Debug\net6.0-windows\Shnuro.runtimeconfig.json
+C:\Users\x_bar\Desktop\Shnuro\Shnuro\bin\Debug\net6.0-windows\Shnuro.dll
+C:\Users\x_bar\Desktop\Shnuro\Shnuro\bin\Debug\net6.0-windows\Shnuro.pdb
+C:\Users\x_bar\Desktop\Shnuro\Shnuro\obj\Debug\net6.0-windows\Shnuro.csproj.AssemblyReference.cache
+C:\Users\x_bar\Desktop\Shnuro\Shnuro\obj\Debug\net6.0-windows\Shnuro.Form1.resources
+C:\Users\x_bar\Desktop\Shnuro\Shnuro\obj\Debug\net6.0-windows\Shnuro.csproj.GenerateResource.cache
+C:\Users\x_bar\Desktop\Shnuro\Shnuro\obj\Debug\net6.0-windows\Shnuro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x_bar\Desktop\Shnuro\Shnuro\obj\Debug\net6.0-windows\Shnuro.AssemblyInfoInputs.cache
+C:\Users\x_bar\Desktop\Shnuro\Shnuro\obj\Debug\net6.0-windows\Shnuro.AssemblyInfo.cs
+C:\Users\x_bar\Desktop\Shnuro\Shnuro\obj\Debug\net6.0-windows\Shnuro.csproj.CoreCompileInputs.cache
+C:\Users\x_bar\Desktop\Shnuro\Shnuro\obj\Debug\net6.0-windows\Shnuro.dll
+C:\Users\x_bar\Desktop\Shnuro\Shnuro\obj\Debug\net6.0-windows\refint\Shnuro.dll
+C:\Users\x_bar\Desktop\Shnuro\Shnuro\obj\Debug\net6.0-windows\Shnuro.pdb
+C:\Users\x_bar\Desktop\Shnuro\Shnuro\obj\Debug\net6.0-windows\Shnuro.genruntimeconfig.cache
+C:\Users\x_bar\Desktop\Shnuro\Shnuro\obj\Debug\net6.0-windows\ref\Shnuro.dll
