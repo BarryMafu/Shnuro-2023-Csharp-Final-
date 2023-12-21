@@ -30,6 +30,12 @@ Declaration:
 public static void MciClose(string strFileName);
 ```
 Usage : **Close** a .mp3 file which `strFileName` indicates, it won't restart until you play it..
+### <5> ReadMP3
+Declaration:
+```csharp
+public static string[] ReadMp3(string path, out Image? img);
+```
+Usage : Read the header of a .mp3 file which `path` indicates, and output the image to `img` if it exists. Then returns the strings which contain the imformation in the header.
 ## SQLHelper
 ### <1> isBlank
 Declaration:
