@@ -43,3 +43,9 @@ Declaration:
 public static bool isBlank(string str);
 ```
 Usage : Returns whether the string `str` is null or empty.
+### <2> AddSqlWhere
+Declaration:
+```csharp
+public static string AddSqlWhere(ref string strSql, string fieldName, string op, string fieldValue);
+```
+Usage: 
