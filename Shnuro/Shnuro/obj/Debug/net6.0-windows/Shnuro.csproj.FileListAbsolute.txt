@@ -15,3 +15,11 @@ C:\Users\x_bar\Desktop\Shnuro\Shnuro\obj\Debug\net6.0-windows\refint\Shnuro.dll
 C:\Users\x_bar\Desktop\Shnuro\Shnuro\obj\Debug\net6.0-windows\Shnuro.pdb
 C:\Users\x_bar\Desktop\Shnuro\Shnuro\obj\Debug\net6.0-windows\Shnuro.genruntimeconfig.cache
 C:\Users\x_bar\Desktop\Shnuro\Shnuro\obj\Debug\net6.0-windows\ref\Shnuro.dll
+C:\Users\x_bar\Desktop\Shnuro\Shnuro\obj\Debug\net6.0-windows\Shnuro.UserControls.Settings.resources
+C:\Users\x_bar\Desktop\Shnuro\Shnuro\obj\Debug\net6.0-windows\Shnuro.UserControls.StartInterface.resources
+C:\Users\x_bar\Desktop\Shnuro\Shnuro\obj\Debug\net6.0-windows\Shnuro.UserControls.EditInterface.resources
+C:\Users\x_bar\Desktop\Shnuro\Shnuro\obj\Debug\net6.0-windows\Shnuro.UserControls.EditSelect.resources
+C:\Users\x_bar\Desktop\Shnuro\Shnuro\obj\Debug\net6.0-windows\Shnuro.UserControls.LoginInterface.resources
+C:\Users\x_bar\Desktop\Shnuro\Shnuro\obj\Debug\net6.0-windows\Shnuro.UserControls.MusicPackSelect.resources
+C:\Users\x_bar\Desktop\Shnuro\Shnuro\obj\Debug\net6.0-windows\Shnuro.UserControls.MusicSelect.resources
+C:\Users\x_bar\Desktop\Shnuro\Shnuro\obj\Debug\net6.0-windows\Shnuro.UserControls.SettlementInterface.resources
