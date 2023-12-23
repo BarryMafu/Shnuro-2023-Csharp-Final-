@@ -1,37 +1,40 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
+    <Compile Update="CustomControls\EditSelectPackEntry.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
     <Compile Update="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="UserControls\EditInterface.cs">
+    <Compile Update="ShowcaseControls\EditInterface.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Update="UserControls\EditPreInformation.cs">
+    <Compile Update="ShowcaseControls\EditPreInformation.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Update="UserControls\EditSelect.cs">
+    <Compile Update="ShowcaseControls\EditSelect.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Update="UserControls\GameInterface.cs">
+    <Compile Update="ShowcaseControls\GameInterface.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Update="UserControls\LoginInterface.cs">
+    <Compile Update="ShowcaseControls\LoginInterface.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Update="UserControls\MusicPackSelect.cs">
+    <Compile Update="ShowcaseControls\MusicPackSelect.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Update="UserControls\MusicSelect.cs">
+    <Compile Update="ShowcaseControls\MusicSelect.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Update="UserControls\Settings.cs">
+    <Compile Update="ShowcaseControls\Settings.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Update="UserControls\SettlementInterface.cs">
+    <Compile Update="ShowcaseControls\SettlementInterface.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Update="UserControls\StartInterface.cs">
+    <Compile Update="ShowcaseControls\StartInterface.cs">
       <SubType>UserControl</SubType>
     </Compile>
   </ItemGroup>
